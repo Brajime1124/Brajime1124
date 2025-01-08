@@ -17,7 +17,7 @@
   - [Official Support Certification](https://github.com/Brajime1124/IT-Certif)
   
 <h2> 🤳 Connect with me </h2>
-Email: JBrandon2557@gmail.com
+Email - JBrandon2557@gmail.com
 
 <br>[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
