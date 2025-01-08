@@ -6,16 +6,16 @@
   - [Home Lab for Windows](https://github.com/Brajime1124/)
 
 - <b>Disk Imaging/Cloning Copying Hardrive</b>
-  - [Home Lab for Windows](https://github.com/Brajime1124/)
+  - [HDD to SDD Data Transfer](https://github.com/Brajime1124/)
 
 - <b>"Bricked" PC Restoration - Failed BIOS Update</b>
-  - [Home Lab for Windows](https://github.com/Brajime1124/)
+  - [Restoring Unresponsive PC Due to Failed BIOS Update](https://github.com/Brajime1124/)
 
 <h2> 🌱 Certifications </h2>
 
 - <b>Google IT Support Certification</b> 
   - [Official Support Certification](https://github.com/Brajime1124)
-
+  
 <h2> 🤳 Connect with me </h2>
 Email: JBrandon2557@gmail.com
 
