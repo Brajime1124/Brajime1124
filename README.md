@@ -14,7 +14,7 @@
 <h2> 🌱 Certifications </h2>
 
 - <b>Google IT Support Certification</b> 
-  - [Official Support Certification](https://github.com/Brajime1124)
+  - [Official Support Certification](https://github.com/Brajime1124/IT-Certif)
   
 <h2> 🤳 Connect with me </h2>
 Email: JBrandon2557@gmail.com
