@@ -3,7 +3,7 @@
 <h2>👨‍💻 General IT Projects </h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Home Lab for Windows](https://github.com/Brajime1124/)
+  - [Home Lab for Windows](https://github.com/Brajime1124/ActiveDirectDemo)
 
 - <b>Disk Imaging/Cloning Copying Hardrive</b>
   - [HDD to SDD Data Transfer](https://github.com/Brajime1124/)
