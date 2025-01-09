@@ -1,6 +1,6 @@
 <h1>Hi, I'm Brandon!</h1>
 
-<h2>👨‍💻 General IT Projects </h2>
+<h2>👨‍💻 General IT Projects</h2>
 
 - <b>Active Directory Home Lab</b>
   - [Home Lab for Windows](https://github.com/Brajime1124/ActiveDirectDemo)
@@ -11,7 +11,7 @@
 - <b>"Bricked" PC Restoration - Failed BIOS Update</b>
   - [Restoring Unresponsive PC Due to Failed BIOS Update](https://github.com/Brajime1124/UnrePC)
 
-<h2> 🌱 Certifications </h2>
+<h2>🌱 Certifications</h2>
 
 - <b>Google IT Support Certification</b> 
   - [Official Support Certification](https://github.com/Brajime1124/IT-Certif)
