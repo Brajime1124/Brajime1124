@@ -9,7 +9,7 @@
   - [HDD to SDD Data Transfer](https://github.com/Brajime1124/CloningLab)
 
 - <b>"Bricked" PC Restoration - Failed BIOS Update</b>
-  - [Restoring Unresponsive PC Due to Failed BIOS Update](https://github.com/Brajime1124/)
+  - [Restoring Unresponsive PC Due to Failed BIOS Update](https://github.com/Brajime1124/UnrePC)
 
 <h2> 🌱 Certifications </h2>
 
