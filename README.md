@@ -13,6 +13,9 @@
 - <b>"Bricked" PC Restoration - Failed BIOS Update</b>
   - [Restoring Unresponsive PC Due to Failed BIOS Update](https://github.com/Brajime1124/UnrePC)
 
+- <b>Network Setup & Troubleshooting</b>
+  - [Troubleshooting Common Issues Using Essential Networking Tools.](https://github.com/Brajime1124/NSTwindows)
+
 <h2>🌱 Certifications</h2>
 
 - <b>Google IT Support Certification</b> 
