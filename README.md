@@ -5,7 +5,7 @@
 - <b>Active Directory Home Lab</b>
   - [Home Lab for Windows](https://github.com/Brajime1124/ActiveDirectDemo)
  
-  - [Ticketing System for Window](https://github.com/Brajime1124/TicketSys) 
+  - [Ticketing System for Windows](https://github.com/Brajime1124/TicketSys) 
 
 - <b>Disk Imaging/Cloning Copying Hardrive</b>
   - [HDD to SDD Data Transfer](https://github.com/Brajime1124/CloningLab)
