@@ -6,7 +6,7 @@
   - [Home Lab for Windows](https://github.com/Brajime1124/ActiveDirectDemo)
  
    - <b>Creating a Ticketing System</b>
-  - [Ticketing System for Window](https://github.com/Brajime1124/TicketSys) 
+  - [](https://github.com/Brajime1124/TicketSys) 
 
 - <b>Disk Imaging/Cloning Copying Hardrive</b>
   - [HDD to SDD Data Transfer](https://github.com/Brajime1124/CloningLab)
